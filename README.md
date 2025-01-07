@@ -1,5 +1,5 @@
 
-   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="rk15" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rk15?trk=profile-badge"><h1 align="center">Rahul Kushwaha</h1></a></div>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE2RlW_w1CwMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736224192380?e=1741824000&v=beta&t=v0jS1lQ0g2n8BOFOD_vP-A9wVaY8jdL8ZyW-4_4yHJA" alt="BlogBranding" />
 
 <h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h3>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmadhup" alt="devmadhup" /></a> </p>
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQE2RlW_w1CwMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736224192380?e=1741824000&v=beta&t=v0jS1lQ0g2n8BOFOD_vP-A9wVaY8jdL8ZyW-4_4yHJA" alt="BlogBranding" />
+
  
 <br>
 <br>
