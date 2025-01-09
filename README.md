@@ -1,5 +1,5 @@
 
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE2RlW_w1CwMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736224192380?e=1741824000&v=beta&t=v0jS1lQ0g2n8BOFOD_vP-A9wVaY8jdL8ZyW-4_4yHJA" alt="BlogBranding" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGsRTioePAeeA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736231258628?e=1741824000&v=beta&t=nmU04eb_P0R2xWPpa4LmWjrLtmrD71-CSn33WFyqxrQ" alt="BlogBranding" />
 
 <h3 align="center">A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h3>
 
